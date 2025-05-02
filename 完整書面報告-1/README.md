@@ -32,6 +32,7 @@ ChatGPT 是基於深度學習中的 Transformer 架構，透過龐大的語料�
 人工智慧、機器學習、深度學習、智慧工廠、工業4.0
 
 參考文獻：
+
 1.中時電子報：全台首座工具機智慧工廠誕生 網址：https://www.chinatimes.com/newspapers/20190304000302-260210?chdtv
 
 2.World Economic Forum. (2020). The Future of Jobs Report 2020. Retrieved from https://www.weforum.org/reports/the-future-of-jobs-report-2020
