@@ -13,7 +13,7 @@
 >原則二：每天出貨的經銷商家數應盡量平均。
 >綜合評分指標：
 
-![圖片](https://github.com/user-attachments/assets/a20e7d51-1060-4836-a0ac-2c8e6e7fe283)
+>![圖片](https://github.com/user-attachments/assets/a20e7d51-1060-4836-a0ac-2c8e6e7fe283)
 
 第1種
 * 2.車輛分派子系統
